@@ -14,7 +14,7 @@ export default class About extends Component {
                                             <span className="heading-meta">About Me</span>
                                             <h2 className="colorlib-heading">Who Am I?</h2>
                                             <p>Currently, I am pursuing my <strong>master's degree in computer science </strong>  from Lakehead University. </p>
-                                            <p> I am software engineer with more than two year of hands-on experience in React (With Redux) and Android mobile application development using SCRUM based agile development practices.</p>
+                                            <p> I am software engineer with more than two year of hands-on experience in React (With Redux) and Android mobile application development using SCRUM based agile development practices. </p>
                                             <p>Resourceful, ingenious and dedicated with efficiency in solving issues. </p>
                                         </div>
                                     </div>
