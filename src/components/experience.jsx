@@ -25,11 +25,28 @@ export default class Experience extends Component{
 					               <div className="timeline-label">
 					                  <h2><a href="https://www.peaas.co/">Software Engineer at PEaaS - a Finablr Company</a> <span>February 2017 - August 2019</span></h2>
 					                  <ul>
-                                          <li>Design and build advanced applications for the Web (in React) and Android Mobile Application Platform.</li>
+                                          <li>Designed and build advanced applications for the Web (in React) and Android Mobile Application Platform.</li>
                                           <li>Actively participated in Sprint Planning, Daily scrum, Backlog Grooming, Retrospective Planning.</li>
                                           <li>Done research work if required for incorporating new features and third party integrations as well.</li>
-                                          <li>Developed Multiple loosely coupled React components ex. Table component, Toast-Message component etc.</li>
-                                          <li>I have created multiple internal libraries like Android In-App purchase and Android Beacon for MOBILE APPLICATION PLATFORM OF PEaaS.</li>
+                                          <li>Developed Multiple loosely coupled React Module components like-</li>
+										  <ol>
+											  <li>Blog Management component </li>
+											  <li>User Management component</li>
+											  <li>Transaction Management component</li>
+											  <li>Category Management component</li>
+											  <li>Template Management component</li>
+										  </ol>
+                                          <li>Created multiple internal libraries and react components like-
+											  <ol>
+												  <li>React Table component</li>
+												  <li>React Toast-Message component</li>
+												  <li>React Dropdown-Menu component</li>
+												  <li>Android In-App purchase library</li>
+												  <li>Android Beaccon library</li>
+												  <li>Android Push-Notification library</li>
+												  <li>Android Utilities library</li>
+											  </ol>
+										  </li>
                                       </ul>
 					               </div>
 					            </div>
