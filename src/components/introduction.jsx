@@ -7,7 +7,7 @@ export default class Introduction extends Component {
         <section id="colorlib-hero" className="js-fullheight" data-section="home">
           <div className="flexslider js-fullheight">
             <ul className="slides">
-              <li position="relative" style={{backgroundImage: 'url(images/img_bac22.jpg)'}}>
+              <li position="relative" style={{backgroundImage: 'url(images/IMG_00312.JPG)'}}>
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">
@@ -15,14 +15,14 @@ export default class Introduction extends Component {
                       <div className="slider-text-inner js-fullheight">
                         <div className="desc">
                           <h1>Hi! <br />I'm Karan</h1>
-                          <p><a className="btn btn-primary btn-learn" href="https://docs.google.com/document/d/1kCScFNKxwEvKsZZAxL4xuVg-CDuiPU_pcC52JEoXC6Q/edit?usp=sharing" target="_blank" rel="noopener noreferrer">View CV<i className="icon-download4" /></a></p>
+                          <p><a className="btn btn-primary btn-learn" href="https://drive.google.com/file/d/1Wi_m2TBEWKTC97DE-3boIh5x7CK0lY98/view?usp=sharing" target="_blank" rel="noopener noreferrer">View CV<i className="icon-download4" /></a></p>
                         </div>
                       </div>
                     </div>
                   </div>
                 </div>
               </li>
-              <li style={{backgroundImage: 'url(images/img_bac22.jpg)'}}>
+              <li style={{backgroundImage: 'url(images/IMG_00312.JPG)'}}>
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">
@@ -30,7 +30,7 @@ export default class Introduction extends Component {
                       <div className="slider-text-inner">
                         <div className="desc">
                           <h1>I love building<br /> THINGS !!</h1>
-                          {/* <p><a className="btn btn-primary btn-learn" href="https://github.com/karanshah10" target="_blank" rel="noopener noreferrer">View Projects <i className="icon-briefcase3" /></a></p> */}
+                          <p><a className="btn btn-primary btn-learn" href="https://github.com/karanshah10" target="_blank" rel="noopener noreferrer">View Projects <i className="icon-briefcase3" /></a></p>
                         </div>
                       </div>
                     </div>

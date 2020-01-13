@@ -4,12 +4,12 @@ export default class Work extends Component {
     render() {
         return (
             <div>
-                <section className="colorlib-experience" data-section="experience">
+                <section className="colorlib-experience" data-section="work">
                     <div className="colorlib-narrow-content">
                         <div className="row">
                             <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
                                 <span className="heading-meta">MY WORK</span>
-                                <h2 className="colorlib-heading animate-box">RECENT PROJECTS</h2>
+                                <h2 className="colorlib-heading animate-box">PROFESSIONAL PROJECTS</h2>
                             </div>
                         </div>
                         <div className="row">
@@ -40,8 +40,8 @@ export default class Work extends Component {
                                                 <h2><a href="https://giftcardsindia.com/#/">SWYCh</a> <span>September 2018 - February 2019</span></h2>
                                                 <p><strong>Responsibility:</strong> Developed a Web Application using React with Redux.</p>
                                                 <ol>
-                                                    <li><a href="https://giftcardsindia.com/#/">giftcardsindia.com</a> & <a href="https://swychgift.com/#/welcome">swychgift.com </a> 
-                                                    <ul><li>Both of these white-label responsive web apps constitute the international gifting solution by Swych Inc.</li></ul>
+                                                    <li><a href="https://giftcardsindia.com/#/">giftcardsindia.com</a> & <a href="https://swychgift.com/#/welcome">swychgift.com </a>
+                                                        <ul><li>Both of these white-label responsive web apps constitute the international gifting solution by Swych Inc.</li></ul>
                                                     </li>
                                                     <li>Admin Portal
                                                     <ul><li>For various Swych projects. A single responsive web app is accessible to various types of admins from different Swych projects with the help of role-management & user-management.</li></ul>
@@ -95,6 +95,49 @@ export default class Work extends Component {
                                                     <li>Quiddity is a single platform to manage the company's entire business.</li>
                                                     <li>This one system manages multiple workﬂows and simpliﬁes the decision-making process.</li>
                                                 </ul>
+                                            </div>
+                                        </div>
+                                    </article>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="colorlib-narrow-content">
+                        <div className="row">
+                            <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
+                                <h2 className="colorlib-heading animate-box">ACADAMIC PROJECTS</h2>
+                            </div>
+                        </div>
+                        <div className="row">
+                            <div className="col-md-12">
+                                <div className="timeline-centered">
+                                    <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                                        <div className="timeline-entry-inner">
+
+                                            <div className="timeline-icon color-1">
+                                                <i className="icon-pen2"></i>
+                                            </div>
+
+                                            <div className="timeline-label">
+                                                <h2>MedicoPlus <span>August 2017 - April 2017</span></h2>
+                                                <p><strong>Responsibility:</strong> Developed an Android and Web application using ASP.net (MVC).</p>
+                                                <p>Researched and led a group of 4 to develop a system which would allow the synchronized activity registration of common diseases
+                                                   crosswise the city confronted by the consulted Doctors, that would help to condense the amplified spreadable diseases within city.</p>
+                                                <p>Application helped the corporation to take quick preventive measures which cut-rated the action time by more than 50%</p>
+                                            </div>
+                                        </div>
+                                    </article>
+                                    <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                                        <div className="timeline-entry-inner">
+
+                                            <div className="timeline-icon color-1">
+                                                <i className="icon-pen2"></i>
+                                            </div>
+
+                                            <div className="timeline-label">
+                                                <h2>Open Road Tolling <span>December 2015 - July 2016</span></h2>
+                                                <p><strong>Responsibility:</strong> Developed a Web application using PHP and MySql.</p>
+                                                <p>The purpose of the application was to collection of tolls on toll roads without the Use of toll booths</p>
                                             </div>
                                         </div>
                                     </article>

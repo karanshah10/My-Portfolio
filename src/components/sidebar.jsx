@@ -8,10 +8,10 @@ export default class Sidebar extends Component {
           <nav href="#navbar" className="js-colorlib-nav-toggle colorlib-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i /></nav>
           <aside id="colorlib-aside" className="border js-fullheight">
             <div className="text-center">
-            <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="karan-shah10"><a class="LI-simple-link" href='https://ca.linkedin.com/in/karan-shah10?trk=profile-badge'>karan shah</a></div>
-              {/* <div className="author-img" style={{backgroundImage: 'url(images/IMG_0031.jpg)'}} />
+            {/* <div className="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="karan-shah10"><a class="LI-simple-link" href='https://ca.linkedin.com/in/karan-shah10?trk=profile-badge'>karan shah</a></div> */}
+              <div className="author-img" style={{backgroundImage: 'url(images/img_bac.jpg)'}} />
               <h1 id="colorlib-logo"><a href="index.html">Karan Shah</a></h1>
-              <span className="email"><i className="icon-mail"></i> karanshah10121995@gmail.com</span> */}
+              <span className="email"><i className="icon-mail"></i> karanshah10121995@gmail.com</span>
             </div>
             <nav id="colorlib-main-menu" role="navigation" className="navbar">
               <div id="navbar" className="collapse">
@@ -22,7 +22,6 @@ export default class Sidebar extends Component {
                   <li><a href="#education" data-nav-section="education">EDUCATION</a></li>
                   <li><a href="#experience" data-nav-section="experience">EXPERIENCE</a></li>
                   <li><a href="#work" data-nav-section="work">WORK</a></li>
-                  {/* <li><a href="#timeline" data-nav-section="timeline">Timeline</a></li> */}
                   <li><a href="#contact" data-nav-section="contact">Contact</a></li>
                 </ul>
               </div>
